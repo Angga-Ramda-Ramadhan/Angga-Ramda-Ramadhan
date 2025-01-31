@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+### 🎬 Fun GIFs:
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30%">
+</p>
+
 ### 📫 Reach Me At:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anggaramdaramadhan/)
 - 📧 anggaramdawork@gmail.com
