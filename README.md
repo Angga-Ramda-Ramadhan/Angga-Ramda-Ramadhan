@@ -12,7 +12,7 @@
 
 ### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anggaramda&show_icons=true&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Angga-Ramda-Ramadhan&show_icons=true&theme=tokyonight" width="50%">
 </p>
 
 ### 🌱 About Me:
