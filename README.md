@@ -17,16 +17,15 @@
 
 ### 🌱 About Me:
 - 🎯 AI Developer focusing on Computer Vision & NLP
-- 🔬 Researcher on Markov Chain Neural Networks
+- 🔬 Researcher on optimizing Machine Learning Model Performance
 - 🤖 Building LLM-powered chatbots & OCR automation
-- 📡 Working on IoT & environmental monitoring
+- 📡 Working on AI Project to support company neededs
 
 ### 🛠 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
