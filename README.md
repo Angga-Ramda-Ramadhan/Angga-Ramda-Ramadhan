@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 AI Developer | Computer Vision | Machine Learning | NLP
+  🚀 AI Developer | Computer Vision | Machine Learning | NLP | Sentiment Analysis
 </p>
 
 ---
