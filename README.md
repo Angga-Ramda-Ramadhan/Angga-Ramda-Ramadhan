@@ -16,7 +16,7 @@
 </p>
 
 ### 🌱 About Me:
-- 🎯 AI Developer focusing on Computer Vision & NLP
+- 🎯 AI Developer focusing on Computer Vision, NLP, & Machine Learning
 - 🔬 Researcher on optimizing Machine Learning Model Performance
 - 🤖 Building LLM-powered chatbots & OCR automation
 - 📡 Working on AI Project to support company neededs
