@@ -18,7 +18,7 @@
 ### 🌱 About Me:
 - 🎯 AI Developer focusing on Computer Vision, NLP, & Machine Learning
 - 🔬 Researcher on optimizing Machine Learning Model Performance
-- 🤖 Building LLM-powered chatbots & OCR automation
+- 🤖 Building LLM-powered chatbots & OCR automation with utilize cloud
 - 📡 Working on AI Project to support company neededs
 
 ### 🛠 Tech Stack:
